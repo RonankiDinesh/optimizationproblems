@@ -2,7 +2,7 @@
 
 A curated collection of optimization constants $C$ in mathematics, often arising from solving a variational problem, or finding the best constant in a functional inequality.  This repository is focused on recording the best known upper and lower bounds on constants that have an active literature, and encourages crowdsourced contributions and updates (see [here](CONTRIBUTING.md) for instructions on how to contribute).
 
-- Here is an initial blog post introducing the project: [A crowdsourced repository for optimization constants?](https://terrytao.wordpress.com/2026/01/22/a-crowdsourced-repository-for-optimization-constants/), 22 Terence Tao, January 2026.
+- Here is an initial blog post introducing the project: [A crowdsourced repository for optimization constants?](https://terrytao.wordpress.com/2026/01/22/a-crowdsourced-repository-for-optimization-constants/), Terence Tao, 22 January 2026.
 
 ## Table of Constants
 
@@ -15,7 +15,7 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [2](https://teorth.github.io/optimizationproblems/constants/2a.html) | Crouzeix constant | 2 | $1+\sqrt{2} \approx 2.4142$ |
 | [3a](https://teorth.github.io/optimizationproblems/constants/3a.html) | Gyamarti-Hennecart-Ruzsa sum-difference constant | 1.173077 | 1.33333 |
 | [3b](https://teorth.github.io/optimizationproblems/constants/3b.html) | Kakeya sums-differences constant | >1.77898 | 1.83333 |
-| [4a](https://teorth.github.io/optimizationproblems/constants/4a.html) | Cap set constant | 0.724851 | 0.782597 |
+| [4a](https://teorth.github.io/optimizationproblems/constants/4a.html) | Cap set constant | 2.2202 | 2.756 |
 | [4b](https://teorth.github.io/optimizationproblems/constants/4b.html) | Furstenberg–Sárközy square-difference constant | 0.733412 | 1 |
 | [5](https://teorth.github.io/optimizationproblems/constants/5a.html) | Sidon set size constant | 0 | 0.97633 |
 | [6](https://teorth.github.io/optimizationproblems/constants/6a.html) | Union-closed sets conjecture constant | 0.38271 | 0.5 |
@@ -40,7 +40,7 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [21](https://teorth.github.io/optimizationproblems/constants/21a.html) | de Bruijn–Newman constant | 0 | 0.2 |
 | [22a](https://teorth.github.io/optimizationproblems/constants/22a.html) | Tight knot constant | 1.105 | 10.76 |
 | [22b](https://teorth.github.io/optimizationproblems/constants/22b.html) | Tight alternating knot constant | 0.017 | 7.31 |
-| [23](https://teorth.github.io/optimizationproblems/constants/23a.html) | Smallest unsolved instance of the Hadamard conjecture | 688 | $\infty$ |
+| [23](https://teorth.github.io/optimizationproblems/constants/23a.html) | Smallest unsolved instance of the Hadamard conjecture | 668 | $\infty$ |
 | [24](https://teorth.github.io/optimizationproblems/constants/24a.html) | Komlós discrepancy constant | $1+\sqrt{2}$ | $\infty$ |
 | [25](https://teorth.github.io/optimizationproblems/constants/25a.html) | Mahler volume product constant | $\pi$ | 4 |
 | [26a](https://teorth.github.io/optimizationproblems/constants/26a.html) | Bohnenblust--Hille constant on the Boolean cube | $2$ | $\infty$ |
@@ -49,6 +49,8 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [28](https://teorth.github.io/optimizationproblems/constants/28a.html) | Smallest dimension in which Borsuk’s conjecture fails| 4 | 63 |
 | [29](https://teorth.github.io/optimizationproblems/constants/29a.html) | Kissing number in dimension $5$ | 40 | 44 |
 | [30](https://teorth.github.io/optimizationproblems/constants/30a.html) | Stanley–Wilf limit for the permutation pattern $1324$ | 10.27 | 13.5 |
+| [31](https://teorth.github.io/optimizationproblems/constants/31a.html) | Chvátal–Sankoff constant for a binary alphabet | 0.792665992 | 0.826280 |
+| [32](https://teorth.github.io/optimizationproblems/constants/32a.html) | Constant term of one-shot channel simulation | $-\log_2 \log_2 e \approx -0.53$ | $\sum_{k=1}^{\infty}2^{-k-1}k\log_{2}k-\log_{2}\log_{2}e \approx 0.76$ |
 
 ## Recent progress
 
