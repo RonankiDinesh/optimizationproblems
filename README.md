@@ -65,6 +65,7 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 | [40](https://teorth.github.io/optimizationproblems/constants/40a.html) | Lehmer’s Mahler measure constant | 1 | 1.176280... |
 | [40b](https://teorth.github.io/optimizationproblems/constants/40b.html) | Asymptotic Dobrowolski constant for Lehmer’s problem | $9/4$ | $\infty$ |
 | [41a](https://teorth.github.io/optimizationproblems/constants/41a.html) | Moving sofa constant | 2.2195 | 2.37 (2.2195 announced)|
+| [42](https://teorth.github.io/optimizationproblems/constants/42a.html) | Turan's pure power sum constant | 0.5 | 0.69368 |
 | [43](https://teorth.github.io/optimizationproblems/constants/43a.html) | Gilbert-Pollak conjecture (Steiner ratio) | 0.8559 | 0.86602540378 |
 
 
